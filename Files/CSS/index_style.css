@@ -1158,8 +1158,20 @@ transition: left 0.5s ease-in-out, top 0.5s ease-in-out;
   margin-left: auto;
   margin-right: auto;
 }
+.index_sub3{
+  width: 100%;
+  text-align: center;
+  display: block;
+}
+.index_sub5{
+  margin-left: auto;
+  margin-right: auto;
+}
 .index_sub6{
   text-align: center;
+}
+.index_sub2 h2{
+  font-size: 26px;
 }
 }
 

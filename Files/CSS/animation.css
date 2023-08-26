@@ -336,7 +336,7 @@ li {
   /* justify-content: center;          this is very imp  */
   justify-content: center;
   /* margin-top: 3%; */
-  padding: 50px;
+  
   margin-top: 80px;
   align-items: center;
   padding-top: 100px;
@@ -554,7 +554,6 @@ li {
 .learn200 h4{
   font-size:13px;
   height: 40px;
-  border-right: ;
   text-align: center;
   padding-right: 10px;
 }
