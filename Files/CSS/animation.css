@@ -4,14 +4,14 @@
   margin: 0;
   padding: 0;
 }
-
+/*
 html,
 body {
   margin: 0;
   padding: 0;
   overflow-x: hidden;
 }
-
+*/
 :root {
   /*========== Colors ==========*
     --primary-color: #FA8F14;
@@ -498,7 +498,7 @@ li {
 }
 
 .show200 {
-  margin-top: 0px;
+  margin-top: 80px;
   padding: 10px;
   display: flex;
   flex-direction: row;
@@ -520,6 +520,7 @@ li {
   background: #F6E1C2;
   margin-right: auto;
   margin-left: auto;
+  padding-top: -20px;
 }
 
 .learn200 h4 {
@@ -553,7 +554,7 @@ li {
 .learn200 h4{
   font-size:13px;
   height: 40px;
-  border-right: 1px solid;
+  border-right: ;
   text-align: center;
   padding-right: 10px;
 }

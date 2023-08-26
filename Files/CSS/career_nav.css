@@ -15,7 +15,7 @@ nav{
       z-index: 3;
     }
     .index_nav_img{
-      width: 296px;
+      width: 266px;
       margin-top: -20px;
       padding-left: 30px;
       
@@ -23,7 +23,7 @@ nav{
     @media screen and (min-width: 1072px){
       .index_nav_ul{
         padding-top: 10px;
-        width: 50%;
+        width: 55%;
         display: flex;
         flex-direction: row;
         justify-content: space-between;   
