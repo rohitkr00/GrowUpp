@@ -227,7 +227,7 @@ nav{
       text-align: center;
     }
     .footer_class12 input{
-      width: 259px;
+      width: 219px;
       height: 24px;
       padding: 10px;
       border: none;
@@ -301,3 +301,62 @@ nav{
       }
     }
     
+
+
+  /*____________________________________________________________________________________________________*/
+
+
+  .intern_a1{
+    padding-top: 100px;
+    width: 100%;
+    background-color: #e8e9eb;
+    text-align: center;
+  }
+  .intern_a2{
+    display: flex;
+    width: 100%;
+    
+  }
+.intern_a2 .card{
+  width: 50%;
+  padding: 30px;
+  margin: 80px;
+  border: none;
+  border-radius: 20px;
+  text-align: left;
+}
+.intern_a1 a{
+  align-self: center;
+  background: #492B50;
+  border: none;
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+  
+
+}
+.intern_a1 h2{
+  font-size: 48px;
+  font-weight: 700;
+  color: #FD8601;
+}
+.intern_a1 h3{
+  font-size: 48px;
+  font-weight: 800;
+}
+.intern_a2 h3{
+  font-size: 28px;
+  font-weight: 800;
+}
+.intern_a3 p{
+  font-size: 18px;
+}
+
+@media screen and (max-width: 855px){
+  .intern_a2{
+    display: block;
+  }
+  .intern_a2 .card{
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

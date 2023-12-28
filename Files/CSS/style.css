@@ -383,12 +383,24 @@ _________________________________________career page____________________________
   .common_class1 h1{
     font-size: 28px;
     letter-spacing: 3px;
-    padding-top: 200px;
+    padding-top: 180px;
     top: 10px;
 
     
   }
  
+}
+@media screen and (max-width: 400px){
+  .common_class1 h1{
+    font-size: 18px;
+    letter-spacing: 2px;
+    padding-top: 130px;
+    top: 10px;
+
+    
+  }
+ 
+
 }
 
 /*___________________________________________________________________________________*/
@@ -536,8 +548,13 @@ ________________________________________________________________________________
   text-align: center;
   font-family: poppins;
 }
-.career_class7 h3{
+.career_class7 a h3{
   font-size: 28px;
+  color: #000;
+  font-weight: 700;
+}
+.career_class7 h3 a:hover{
+  background-color: transparent;
 }
 
 @media screen and (max-width: 920px){

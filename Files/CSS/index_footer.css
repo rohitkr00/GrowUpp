@@ -1,13 +1,16 @@
   .footer_class8{
-    background-color: rgb(239,239,239);
+     background-color: rgb(239,239,239);
     padding: 40px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     font-family: poppins;
+    
+  
   }
   .footer_class9 img{
     margin-top: -30px;
+    margin-left: -10px;
   }
   .footer_class9 p{
     color: #555555;
@@ -125,6 +128,9 @@
     .footer-titles1{
       font-size: 16px;
       font-weight: 700;
+    }
+    .footer_class12 input{
+      width: 150px;
     }
   }
   
